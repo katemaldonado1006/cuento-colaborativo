@@ -1,4 +1,4 @@
 Versionamiento de codigo historia
 
 Había una vez un gato que pasó por un centro comercial, este gato estaba perdido buscando a su familia. El gato estaba caminando con su familia cuando un desfile de elefantes pasó por enfrente ellos y él los siguió. Ahora el gato esta perdido buscando entre tiendas a sus hermanitos. 
-El gato pensó en cuales tiendas podrian estar su familia, se imaginó como su hermanita menor queria ver las bolas de estambre en la tienda de manualidades, o como su hermano quisiera comprar filetes de pescado para compartir con el. El gato decidio empezar a buscar por...
+El gato pensó en cuales tiendas podrian estar su familia, se imaginó como su hermanita menor queria ver las bolas de estambre en la tienda de manualidades, o como su hermano quisiera comprar filetes de pescado para compartir con el. El gato decidio empezar a buscar por la tienda de manualidades, pero no encontro a su familia. Entonces recordo que debian volver al lugar donde se separaron. Corrio a la entrada del centro comercial y ahi estaban sus hermanitos y su mama, esperandolo. Todos se abrazaron felices y fueron por latas de comida para gatos. 
